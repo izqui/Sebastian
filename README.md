@@ -1,4 +1,4 @@
 Sebastian
 =========
 
-Sebastian is a telegram group admin who work with commands and is full customisable
+Sebastian is a telegram group admin who works with commands and is fully customisable.
